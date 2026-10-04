@@ -70,7 +70,7 @@ Make sure all services are installed and running locally or in Docker containers
 
 6. Confirm that the API is running by visiting `http://localhost:{port}`.
 
-7. Get to work :).
+7. Start building and contributing to the Zedu API
 
 
 
